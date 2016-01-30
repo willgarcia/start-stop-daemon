@@ -1,6 +1,6 @@
 # buildrpm start-stop-daemon
 
-This project provides the start-stop-daemon utility.
+This project provides an RPM version for CentOS of the famous start-stop-daemon utility.
 
 ## Installation
 
